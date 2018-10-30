@@ -1,2 +1,2 @@
 # digit-detection
-Detects handwritten digits and the neural net is trained using mnist dataset. 
+An application to classify hand written digits. Model is build by training a CNN using MNIST dataset.  
